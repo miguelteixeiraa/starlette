@@ -29,6 +29,7 @@ classifiers = [
 ]
 dependencies = [
     "anyio>=3.4.0,<5",
+    "ada-url==1.8.0",
     "typing_extensions>=3.10.0; python_version < '3.10'",
 ]
 
